@@ -1,0 +1,1 @@
+this defult nginx config 
